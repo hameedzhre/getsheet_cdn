@@ -1,219 +1,46 @@
 [
   {
     "name": "Women's Fashion",
-    "url": "categories/women-s-fashion.json",
-    "product_count": 358,
-    "subcategories": [
-      {
-        "name": "Women's_Clothing",
-        "url": "categories/women-s-fashion/women-s-clothing.json",
-        "product_count": 292
-      },
-      {
-        "name": "Women's_Shoes",
-        "url": "categories/women-s-fashion/women-s-shoes.json",
-        "product_count": 10
-      },
-      {
-        "name": "Women's_Accessories",
-        "url": "categories/women-s-fashion/women-s-accessories.json",
-        "product_count": 56
-      }
-    ]
+    "url": "https://magicearn.shop/category/Women's%20Fashion"
   },
   {
     "name": "Men's Fashion",
-    "url": "categories/men-s-fashion.json",
-    "product_count": 79,
-    "subcategories": [
-      {
-        "name": "Men's_Clothing",
-        "url": "categories/men-s-fashion/men-s-clothing.json",
-        "product_count": 70
-      },
-      {
-        "name": "Men's_Accessories",
-        "url": "categories/men-s-fashion/men-s-accessories.json",
-        "product_count": 8
-      },
-      {
-        "name": "Men's_Watches",
-        "url": "categories/men-s-fashion/men-s-watches.json",
-        "product_count": 1
-      }
-    ]
+    "url": "https://magicearn.shop/category/Men's%20Fashion"
   },
   {
     "name": "TVs & Home Appliances",
-    "url": "categories/tvs-home-appliances.json",
-    "product_count": 58,
-    "subcategories": [
-      {
-        "name": "Kitchen_Appliances",
-        "url": "categories/tvs-home-appliances/kitchen-appliances.json",
-        "product_count": 22
-      },
-      {
-        "name": "Home_Appliances",
-        "url": "categories/tvs-home-appliances/home-appliances.json",
-        "product_count": 36
-      }
-    ]
+    "url": "https://magicearn.shop/category/TVs%20%26%20Home%20Appliances"
   },
   {
     "name": "Sports & Outdoors",
-    "url": "categories/sports-outdoors.json",
-    "product_count": 9,
-    "subcategories": [
-      {
-        "name": "Outdoor_Gear",
-        "url": "categories/sports-outdoors/outdoor-gear.json",
-        "product_count": 4
-      },
-      {
-        "name": "Fitness_Equipment",
-        "url": "categories/sports-outdoors/fitness-equipment.json",
-        "product_count": 3
-      },
-      {
-        "name": "Sportswear",
-        "url": "categories/sports-outdoors/sportswear.json",
-        "product_count": 2
-      }
-    ]
+    "url": "https://magicearn.shop/category/Sports%20%26%20Outdoors"
   },
   {
     "name": "Health & Beauty",
-    "url": "categories/health-beauty.json",
-    "product_count": 70,
-    "subcategories": [
-      {
-        "name": "Hair_Care",
-        "url": "categories/health-beauty/hair-care.json",
-        "product_count": 5
-      },
-      {
-        "name": "Personal_Care",
-        "url": "categories/health-beauty/personal-care.json",
-        "product_count": 18
-      },
-      {
-        "name": "Makeup",
-        "url": "categories/health-beauty/makeup.json",
-        "product_count": 5
-      },
-      {
-        "name": "Fragrances",
-        "url": "categories/health-beauty/fragrances.json",
-        "product_count": 24
-      },
-      {
-        "name": "Skincare",
-        "url": "categories/health-beauty/skincare.json",
-        "product_count": 16
-      },
-      {
-        "name": "Health_Supplements",
-        "url": "categories/health-beauty/health-supplements.json",
-        "product_count": 2
-      }
-    ]
+    "url": "https://magicearn.shop/category/Health%20%26%20Beauty"
   },
   {
     "name": "Mobile & Tablets",
-    "url": "categories/mobile-tablets.json",
-    "product_count": 6,
-    "subcategories": [
-      {
-        "name": "Mobile_Accessories",
-        "url": "categories/mobile-tablets/mobile-accessories.json",
-        "product_count": 5
-      },
-      {
-        "name": "Smart_Watches",
-        "url": "categories/mobile-tablets/smart-watches.json",
-        "product_count": 1
-      }
-    ]
+    "url": "https://magicearn.shop/category/Mobile%20%26%20Tablets"
   },
   {
     "name": "Baby, Kids & Toys",
-    "url": "categories/baby-kids-toys.json",
-    "product_count": 3,
-    "subcategories": [
-      {
-        "name": "Toys",
-        "url": "categories/baby-kids-toys/toys.json",
-        "product_count": 1
-      },
-      {
-        "name": "Kids_Accessories",
-        "url": "categories/baby-kids-toys/kids-accessories.json",
-        "product_count": 2
-      }
-    ]
+    "url": "https://magicearn.shop/category/Baby%2C%20Kids%20%26%20Toys"
   },
   {
     "name": "Groceries & Pets",
-    "url": "categories/groceries-pets.json",
-    "product_count": 3,
-    "subcategories": [
-      {
-        "name": "Groceries",
-        "url": "categories/groceries-pets/groceries.json",
-        "product_count": 3
-      }
-    ]
+    "url": "https://magicearn.shop/category/Groceries%20%26%20Pets"
   },
   {
     "name": "Computing, Cameras & Gaming",
-    "url": "categories/computing-cameras-gaming.json",
-    "product_count": 1,
-    "subcategories": [
-      {
-        "name": "Gaming_Accessories",
-        "url": "categories/computing-cameras-gaming/gaming-accessories.json",
-        "product_count": 1
-      }
-    ]
+    "url": "https://magicearn.shop/category/Computing%2C%20Cameras%20%26%20Gaming"
   },
   {
     "name": "Kids & Toys",
-    "url": "categories/kids-toys.json",
-    "product_count": 8,
-    "subcategories": [
-      {
-        "name": "Baby_Care",
-        "url": "categories/kids-toys/baby-care.json",
-        "product_count": 3
-      },
-      {
-        "name": "Toys",
-        "url": "categories/kids-toys/toys.json",
-        "product_count": 5
-      }
-    ]
+    "url": "https://magicearn.shop/category/Kids%20%26%20Toys"
   },
   {
     "name": "Motors",
-    "url": "categories/motors.json",
-    "product_count": 4,
-    "subcategories": [
-      {
-        "name": "Tools_Equipment",
-        "url": "categories/motors/tools-equipment.json",
-        "product_count": 2
-      },
-      {
-        "name": "Motorcycles",
-        "url": "categories/motors/motorcycles.json",
-        "product_count": 1
-      },
-      {
-        "name": "Car_Accessories",
-        "url": "categories/motors/car-accessories.json",
-        "product_count": 1
-      }
-    ]
+    "url": "https://magicearn.shop/category/Motors"
   }
 ]
