@@ -2,56 +2,67 @@
   {
     "name": "Women's Fashion",
     "slug": "womens-fashion",
-    "url": "https://magicearn.shop/#/category/womens-fashion"
+    "url": "https://magicearn.shop/category/womens-fashion",
+    "count": 358
   },
   {
     "name": "Men's Fashion",
     "slug": "mens-fashion",
-    "url": "https://magicearn.shop/#/category/mens-fashion"
+    "url": "https://magicearn.shop/category/mens-fashion",
+    "count": 79
   },
   {
     "name": "TVs & Home Appliances",
     "slug": "tvs-home-appliances",
-    "url": "https://magicearn.shop/#/category/tvs-home-appliances"
+    "url": "https://magicearn.shop/category/tvs-home-appliances",
+    "count": 58
   },
   {
     "name": "Sports & Outdoors",
     "slug": "sports-outdoors",
-    "url": "https://magicearn.shop/#/category/sports-outdoors"
+    "url": "https://magicearn.shop/category/sports-outdoors",
+    "count": 9
   },
   {
     "name": "Health & Beauty",
     "slug": "health-beauty",
-    "url": "https://magicearn.shop/#/category/health-beauty"
+    "url": "https://magicearn.shop/category/health-beauty",
+    "count": 70
   },
   {
     "name": "Mobile & Tablets",
     "slug": "mobile-tablets",
-    "url": "https://magicearn.shop/#/category/mobile-tablets"
+    "url": "https://magicearn.shop/category/mobile-tablets",
+    "count": 6
   },
   {
     "name": "Baby, Kids & Toys",
     "slug": "baby-kids-toys",
-    "url": "https://magicearn.shop/#/category/baby-kids-toys"
+    "url": "https://magicearn.shop/category/baby-kids-toys",
+    "count": 3
   },
   {
     "name": "Groceries & Pets",
     "slug": "groceries-pets",
-    "url": "https://magicearn.shop/#/category/groceries-pets"
+    "url": "https://magicearn.shop/category/groceries-pets",
+    "count": 3
   },
   {
     "name": "Computing, Cameras & Gaming",
     "slug": "computing-cameras-gaming",
-    "url": "https://magicearn.shop/#/category/computing-cameras-gaming"
+    "url": "https://magicearn.shop/category/computing-cameras-gaming",
+    "count": 1
   },
   {
     "name": "Kids & Toys",
     "slug": "kids-toys",
-    "url": "https://magicearn.shop/#/category/kids-toys"
+    "url": "https://magicearn.shop/category/kids-toys",
+    "count": 8
   },
   {
     "name": "Motors",
     "slug": "motors",
-    "url": "https://magicearn.shop/#/category/motors"
+    "url": "https://magicearn.shop/category/motors",
+    "count": 4
   }
 ]
