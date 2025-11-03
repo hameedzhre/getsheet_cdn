@@ -3,66 +3,116 @@
     "name": "Women's Fashion",
     "slug": "womens-fashion",
     "url": "https://magicearn.shop/category/womens-fashion",
-    "count": 358
+    "count": 358,
+    "subcategories": [
+      "Women's_Clothing",
+      "Women's_Shoes",
+      "Women's_Accessories"
+    ]
   },
   {
     "name": "Men's Fashion",
     "slug": "mens-fashion",
     "url": "https://magicearn.shop/category/mens-fashion",
-    "count": 79
+    "count": 79,
+    "subcategories": [
+      "Men's_Clothing",
+      "Men's_Accessories",
+      "Men's_Watches"
+    ]
   },
   {
     "name": "TVs & Home Appliances",
     "slug": "tvs-home-appliances",
     "url": "https://magicearn.shop/category/tvs-home-appliances",
-    "count": 58
+    "count": 58,
+    "subcategories": [
+      "Kitchen_Appliances",
+      "Home_Appliances"
+    ]
   },
   {
     "name": "Sports & Outdoors",
     "slug": "sports-outdoors",
     "url": "https://magicearn.shop/category/sports-outdoors",
-    "count": 9
+    "count": 9,
+    "subcategories": [
+      "Outdoor_Gear",
+      "Fitness_Equipment",
+      "Sportswear"
+    ]
   },
   {
     "name": "Health & Beauty",
     "slug": "health-beauty",
     "url": "https://magicearn.shop/category/health-beauty",
-    "count": 70
+    "count": 70,
+    "subcategories": [
+      "Hair_Care",
+      "Personal_Care",
+      "Makeup",
+      "Fragrances",
+      "Skincare",
+      "Health_Supplements"
+    ]
   },
   {
     "name": "Mobile & Tablets",
     "slug": "mobile-tablets",
     "url": "https://magicearn.shop/category/mobile-tablets",
-    "count": 6
+    "count": 6,
+    "subcategories": [
+      "Mobile_Accessories",
+      "Smart_Watches"
+    ]
   },
   {
     "name": "Baby, Kids & Toys",
     "slug": "baby-kids-toys",
     "url": "https://magicearn.shop/category/baby-kids-toys",
-    "count": 3
+    "count": 3,
+    "subcategories": [
+      "Toys",
+      "Kids_Accessories"
+    ]
   },
   {
     "name": "Groceries & Pets",
     "slug": "groceries-pets",
     "url": "https://magicearn.shop/category/groceries-pets",
-    "count": 3
+    "count": 3,
+    "subcategories": [
+      "Groceries"
+    ]
   },
   {
     "name": "Computing, Cameras & Gaming",
     "slug": "computing-cameras-gaming",
     "url": "https://magicearn.shop/category/computing-cameras-gaming",
-    "count": 1
+    "count": 1,
+    "subcategories": [
+      "Gaming_Accessories"
+    ]
   },
   {
     "name": "Kids & Toys",
     "slug": "kids-toys",
     "url": "https://magicearn.shop/category/kids-toys",
-    "count": 8
+    "count": 8,
+    "subcategories": [
+      "Baby_Care",
+      "Toys"
+    ]
   },
   {
     "name": "Motors",
     "slug": "motors",
     "url": "https://magicearn.shop/category/motors",
-    "count": 4
+    "count": 4,
+    "subcategories": [
+      "Tools_Equipment",
+      "Motorcycles",
+      "Car_Accessories"
+    ]
   }
 ]
