@@ -3,162 +3,189 @@
     "name": "Women's_Clothing",
     "slug": "womens_clothing",
     "url": "https://magicearn.shop/subcategory/womens_clothing",
-    "count": 292
+    "count": 292,
+    "category": "Women's Fashion"
   },
   {
     "name": "Men's_Clothing",
     "slug": "mens_clothing",
     "url": "https://magicearn.shop/subcategory/mens_clothing",
-    "count": 70
+    "count": 70,
+    "category": "Men's Fashion"
   },
   {
     "name": "Kitchen_Appliances",
     "slug": "kitchen_appliances",
     "url": "https://magicearn.shop/subcategory/kitchen_appliances",
-    "count": 22
+    "count": 22,
+    "category": "TVs & Home Appliances"
   },
   {
     "name": "Home_Appliances",
     "slug": "home_appliances",
     "url": "https://magicearn.shop/subcategory/home_appliances",
-    "count": 36
+    "count": 36,
+    "category": "TVs & Home Appliances"
   },
   {
     "name": "Outdoor_Gear",
     "slug": "outdoor_gear",
     "url": "https://magicearn.shop/subcategory/outdoor_gear",
-    "count": 4
+    "count": 4,
+    "category": "Sports & Outdoors"
   },
   {
     "name": "Fitness_Equipment",
     "slug": "fitness_equipment",
     "url": "https://magicearn.shop/subcategory/fitness_equipment",
-    "count": 3
+    "count": 3,
+    "category": "Sports & Outdoors"
   },
   {
     "name": "Men's_Accessories",
     "slug": "mens_accessories",
     "url": "https://magicearn.shop/subcategory/mens_accessories",
-    "count": 8
+    "count": 8,
+    "category": "Men's Fashion"
   },
   {
     "name": "Hair_Care",
     "slug": "hair_care",
     "url": "https://magicearn.shop/subcategory/hair_care",
-    "count": 5
+    "count": 5,
+    "category": "Health & Beauty"
   },
   {
     "name": "Personal_Care",
     "slug": "personal_care",
     "url": "https://magicearn.shop/subcategory/personal_care",
-    "count": 18
+    "count": 18,
+    "category": "Health & Beauty"
   },
   {
     "name": "Mobile_Accessories",
     "slug": "mobile_accessories",
     "url": "https://magicearn.shop/subcategory/mobile_accessories",
-    "count": 5
+    "count": 5,
+    "category": "Mobile & Tablets"
   },
   {
     "name": "Toys",
     "slug": "toys",
     "url": "https://magicearn.shop/subcategory/toys",
-    "count": 6
+    "count": 6,
+    "category": "Baby, Kids & Toys"
   },
   {
     "name": "Women's_Shoes",
     "slug": "womens_shoes",
     "url": "https://magicearn.shop/subcategory/womens_shoes",
-    "count": 10
+    "count": 10,
+    "category": "Women's Fashion"
   },
   {
     "name": "Makeup",
     "slug": "makeup",
     "url": "https://magicearn.shop/subcategory/makeup",
-    "count": 5
+    "count": 5,
+    "category": "Health & Beauty"
   },
   {
     "name": "Fragrances",
     "slug": "fragrances",
     "url": "https://magicearn.shop/subcategory/fragrances",
-    "count": 24
+    "count": 24,
+    "category": "Health & Beauty"
   },
   {
     "name": "Skincare",
     "slug": "skincare",
     "url": "https://magicearn.shop/subcategory/skincare",
-    "count": 16
+    "count": 16,
+    "category": "Health & Beauty"
   },
   {
     "name": "Groceries",
     "slug": "groceries",
     "url": "https://magicearn.shop/subcategory/groceries",
-    "count": 3
+    "count": 3,
+    "category": "Groceries & Pets"
   },
   {
     "name": "Women's_Accessories",
     "slug": "womens_accessories",
     "url": "https://magicearn.shop/subcategory/womens_accessories",
-    "count": 56
+    "count": 56,
+    "category": "Women's Fashion"
   },
   {
     "name": "Gaming_Accessories",
     "slug": "gaming_accessories",
     "url": "https://magicearn.shop/subcategory/gaming_accessories",
-    "count": 1
+    "count": 1,
+    "category": "Computing, Cameras & Gaming"
   },
   {
     "name": "Health_Supplements",
     "slug": "health_supplements",
     "url": "https://magicearn.shop/subcategory/health_supplements",
-    "count": 2
+    "count": 2,
+    "category": "Health & Beauty"
   },
   {
     "name": "Baby_Care",
     "slug": "baby_care",
     "url": "https://magicearn.shop/subcategory/baby_care",
-    "count": 3
+    "count": 3,
+    "category": "Kids & Toys"
   },
   {
     "name": "Tools_Equipment",
     "slug": "tools_equipment",
     "url": "https://magicearn.shop/subcategory/tools_equipment",
-    "count": 2
+    "count": 2,
+    "category": "Motors"
   },
   {
     "name": "Sportswear",
     "slug": "sportswear",
     "url": "https://magicearn.shop/subcategory/sportswear",
-    "count": 2
+    "count": 2,
+    "category": "Sports & Outdoors"
   },
   {
     "name": "Motorcycles",
     "slug": "motorcycles",
     "url": "https://magicearn.shop/subcategory/motorcycles",
-    "count": 1
+    "count": 1,
+    "category": "Motors"
   },
   {
     "name": "Smart_Watches",
     "slug": "smart_watches",
     "url": "https://magicearn.shop/subcategory/smart_watches",
-    "count": 1
+    "count": 1,
+    "category": "Mobile & Tablets"
   },
   {
     "name": "Car_Accessories",
     "slug": "car_accessories",
     "url": "https://magicearn.shop/subcategory/car_accessories",
-    "count": 1
+    "count": 1,
+    "category": "Motors"
   },
   {
     "name": "Men's_Watches",
     "slug": "mens_watches",
     "url": "https://magicearn.shop/subcategory/mens_watches",
-    "count": 1
+    "count": 1,
+    "category": "Men's Fashion"
   },
   {
     "name": "Kids_Accessories",
     "slug": "kids_accessories",
     "url": "https://magicearn.shop/subcategory/kids_accessories",
-    "count": 2
+    "count": 2,
+    "category": "Baby, Kids & Toys"
   }
 ]
